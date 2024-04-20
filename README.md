@@ -2,6 +2,7 @@
 # React mentoring
 
 Projeto prático de finalização do curso de React & TypeScript - The Practical Guide.
+
 <img src="src/assets/initialpage.jpg">
 
 <img src="src/assets/sessions.jpg">
