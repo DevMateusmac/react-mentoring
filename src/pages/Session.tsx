@@ -32,7 +32,7 @@ export default function Session(){
     <main id="session-page">
       {isBookingSession && (
         <BookSession session={foundSession} onDone={handleHideBooking}/>
-      )};
+      )}
 
       <article>
         <header>
